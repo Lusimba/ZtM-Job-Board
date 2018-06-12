@@ -1674,6 +1674,22 @@ export const persons = [
       state: "MD",
       country: "USA (Willing to relocate!)"
     }
-  }
+  },
+  {
+    id: 99,
+    name: "Neville Lusimba",
+    img: "https://dyn.web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.11540-24%2F31413201_194399231188452_6599438578558697472_n.jpg%3Foe%3D5B23792D%26oh%3Dbbd263acf81d6556cf9ec22b0401ac6e&t=l&u=918179944641%40c.us&i=1527494681",
+    links: {
+      website: "",
+      linkedin: "https://www.linkedin.com/in/neville-lusimba-b01649148/",
+      github: "https://github.com/Lusimba"
+    },
+    jobTitle: "Front-End Web Developer and Graphic Designer",
+    location: {
+      city: "Hyderabad",
+      state: "Telangana",
+      country: "India"
+    }
+  },
 
 ];
